@@ -1,0 +1,16 @@
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+* {
+    background-color: black;
+}
+
+.dl_link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
